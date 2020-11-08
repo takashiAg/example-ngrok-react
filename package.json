@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "ngrok": "node ngrok",
+    "ngrok-react-start": "node ngrok-react-start",
     "ngrok-forever": "forever start ngrok"
   },
   "eslintConfig": {
